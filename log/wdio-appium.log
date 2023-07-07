@@ -1,0 +1,3 @@
+[35m[Appium][39m Available drivers:
+[35m[Appium][39m   - uiautomator2@2.29.2 (automationName 'UiAutomator2')
+[35m[Appium][39m No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.

@@ -1,7 +1,9 @@
 # Appium
+Mobile automation testing using webdriverio appium
 
-**DOCS**
-* Testcase / Video = [Link](https://docs.google.com/spreadsheets/d/1lWBs2L9ZsDylrtHKhiAgk4_G1q2u_HYsmh4-MFj_tMw/edit?usp=sharing)
+**DOCS TASK 1 & TASK 2**
+* Code Review = [Link](https://github.com/mhdnurfaizzy/Cypress-typescript/blob/master/codeReview.md)
+* Testcase / Video = [Link](https://docs.google.com/spreadsheets/d/1X9CkCVOuEz29Kpf8IEGu8_CewKsaUBUjt2mpQMl_ulA/edit?usp=sharing)
 
 ## Running Tests
 
